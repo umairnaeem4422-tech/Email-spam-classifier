@@ -1,4 +1,4 @@
-*Email Classification System
+*Email Spam Classifier By Umair Naeem
 By Umair Naeem
 
 *Overview
