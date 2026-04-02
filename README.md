@@ -1,5 +1,4 @@
 *Email Spam Classifier By Umair Naeem
-By Umair Naeem
 
 *Overview
 This project classifies emails as Spam or Not Spam.
