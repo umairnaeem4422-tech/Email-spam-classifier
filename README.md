@@ -1,5 +1,5 @@
 *Email Classification System
-By Arslan Ahmad Janjua
+By Umair Naeem
 
 *Overview
 This project classifies emails as Spam or Not Spam.
